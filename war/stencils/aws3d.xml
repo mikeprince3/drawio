@@ -104,7 +104,7 @@
         <stroke/>
     </foreground>
 </shape>
-<shape aspect="variable" h="57.06" name="Email" strokewidth="inherit" w="242.55">
+<shape aspect="variable" h="57.06" name="Email" strokewidth="inherit" w="42.55">
     <connections/>
     <foreground>
         <strokewidth width="2"/>
